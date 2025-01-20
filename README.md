@@ -1,11 +1,5 @@
-# Hi 👋
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/refastygm_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Refa Setyagama)
-
----
-
-## Technologies and Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RefaSetyagama)
 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -19,10 +13,6 @@
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
 </div>
 
----
-
-## GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gamastronger&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
@@ -30,8 +20,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamastronger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gamastronger&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
