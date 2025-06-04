@@ -1,4 +1,4 @@
-# 🚀 Refa Setyagama - Full Stack Developer
+# Refa Setyagama Abdillah - Front End Developer
 
 <div align="center">
   
@@ -7,23 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=gamastronger&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
 </div>
-
-## 🎮 Interactive Games - Try Them Out!
-
-<details>
-<summary>🎯 Click to Play Games!</summary>
-
-### 🐍 Snake Game
-```
-Click the green "Run" button to play Snake!
-Use WASD or Arrow Keys to control the snake.
-```
-
-### 🎲 Dice Roll
-<img src="https://img.shields.io/badge/🎲-Roll%20the%20Dice-brightgreen?style=for-the-badge" alt="Dice" onclick="Math.floor(Math.random() * 6) + 1" />
-
-### 🎯 Random Quote Generator
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 </details>
 
@@ -45,7 +28,7 @@ const refa = {
 
 <div align="center">
 
-### 🎨 Frontend
+### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -53,17 +36,18 @@ const refa = {
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Deployment & Tools
+### Deployment & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🎨 Design
+### Design
+![CorelDRAW](https://img.shields.io/badge/coreldraw-%2300B388.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
@@ -91,51 +75,6 @@ const refa = {
 ![Trophy](https://github-profile-trophy.vercel.app/?username=gamastronger&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamastronger&repo=your-awesome-project&theme=tokyonight)](https://github.com/gamastronger/your-awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamastronger&repo=another-cool-project&theme=tokyonight)](https://github.com/gamastronger/another-cool-project)
-
-</div>
-
-## 💡 Quick Facts
-
-<div align="center">
-
-```
-🔥 Lines of Code Written: 50,000+
-☕ Cups of Coffee: ∞
-🐛 Bugs Fixed: 1,337
-💤 Hours of Sleep Lost: Too many to count
-```
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/gamastronger/gamastronger/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🎯 Current Goals
-
-- 🚀 Mastering Next.js 14 & React Server Components
-- 🔧 Building scalable full-stack applications
-- 📱 Exploring React Native for mobile development
-- 🎨 Improving UI/UX design skills
-- 🌐 Contributing to open-source projects
-
-## 🎪 Fun Zone
-
-<div align="center">
-
-### 🎭 Random Developer Joke
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Joke" />
 
 ### 🎯 Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
