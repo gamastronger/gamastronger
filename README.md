@@ -20,9 +20,9 @@ const developer = {
   location: "Surabaya, Indonesia 🇮🇩",
   
   currentStack: {
-    frontend: ["CSS, React JS", "Tailwind CSS"],
+    frontend: ["CSS", "React JS", "Tailwind CSS"],
     backend: ["MySQL"],
-    tools: [""VS Code", Git", "Vercel", "CorelDraw", "Figma"]
+    tools: ["VS Code", "Git", "Vercel", "CorelDraw", "Figma"]
   },
 };
 ```
@@ -31,42 +31,65 @@ const developer = {
 
 ## 🛠️ Technology Stack
 
+### Frontend & Languages
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="120">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React JS" />
       <br>React JS
     </td>
-    <td align="center" width="120">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind CSS
     </td>
   </tr>
+</table>
+
+### Backend & Database
+<table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="120">
+  </tr>
+</table>
+
+### Tools & Design
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="120">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
-    <td align="center" width="120">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968696.png" width="48" height="48" alt="CorelDRAW" style="border-radius: 8px;" />
-  <br>CorelDRAW
-</td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="48" height="48" alt="CorelDRAW" />
+      <br>CorelDRAW
+    </td>
   </tr>
 </table>
 
