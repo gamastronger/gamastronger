@@ -112,11 +112,6 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamastronger&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gamastronger&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-</div>
 
 ## 📊 Coding Activity
 
@@ -126,39 +121,21 @@ const developer = {
   
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamastronger&repo=your-best-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/gamastronger/your-best-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamastronger&repo=another-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/gamastronger/another-project)
-
-</div>
-
-## 💭 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote" />
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RefaSetyagama)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/refastygm_)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamaa/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/refastygm_/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://drive.google.com/file/d/1ptL4b2U5L6NbT3qeKbTTjZjwsnghltL7/view?usp=sharing)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:refasetyagama@gmail.com)
   
 </div>
+
 
 ---
 
 <div align="center">
-  
-  ### ✨ *"Building the future, one commit at a time"*
-  
-  ![Snake animation](https://github.com/gamastronger/gamastronger/blob/output/github-contribution-grid-snake-dark.svg)
   
   <sub>💙 Thank you for visiting my profile!</sub>
   
