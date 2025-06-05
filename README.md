@@ -16,21 +16,14 @@
 ```javascript
 const developer = {
   name: "Refa Setyagama Abdillah",
-  role: "Full Stack Developer",
+  role: "Front End Developer",
   location: "Surabaya, Indonesia 🇮🇩",
-  education: "Computer Science Student",
   
   currentStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Python", "MySQL"],
-    tools: ["Git", "Vercel", "Figma", "VS Code"]
+    frontend: ["CSS, React JS", "Tailwind CSS"],
+    backend: ["MySQL"],
+    tools: [""VS Code", Git", "Vercel", "CorelDraw", "Figma"]
   },
-  
-  currentlyLearning: ["Web3", "AI/ML", "Cloud Architecture"],
-  
-  interests: ["Clean Code", "UI/UX Design", "Open Source"],
-  
-  lifePhilosophy: "Code with purpose, design with empathy"
 };
 ```
 
@@ -45,27 +38,15 @@ const developer = {
       <br>JavaScript
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React JS" />
+      <br>React JS
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind CSS
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
@@ -81,6 +62,10 @@ const developer = {
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/CorelDRAW_Logo.png" width="48" height="48" alt="CorelDRAW" />
+      <br>CorelDRAW
     </td>
   </tr>
 </table>
