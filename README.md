@@ -96,10 +96,6 @@ const developer = {
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="48" height="48" alt="CorelDRAW" />
-      <br>CorelDRAW
-    </td>
   </tr>
 </table>
 
