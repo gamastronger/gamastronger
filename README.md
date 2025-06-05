@@ -64,9 +64,9 @@ const developer = {
       <br>Vercel
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/CorelDRAW_Logo.png" width="48" height="48" alt="CorelDRAW" />
-      <br>CorelDRAW
-    </td>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968696.png" width="48" height="48" alt="CorelDRAW" style="border-radius: 8px;" />
+  <br>CorelDRAW
+</td>
   </tr>
 </table>
 
