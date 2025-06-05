@@ -87,7 +87,7 @@ const developer = {
       <br>Figma
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="48" height="48" alt="CorelDRAW" />
+      <img src="https://img.icons8.com/fluency/48/coreldraw-2021.png" width="48" height="48" alt="CorelDRAW" />
       <br>CorelDRAW
     </td>
   </tr>
