@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Digital+Solutions;Always+Learning+%26+Growing;Welcome+to+my+profile!&pause=1000)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Designer;Creating+Beautiful+Interfaces;Always+Learning+%26+Growing;Welcome+to+my+profile!&pause=1000)
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=gamastronger&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -16,13 +16,15 @@
 ```javascript
 const developer = {
   name: "Refa Setyagama Abdillah",
-  role: "Front End Developer",
+  role: "Frontend Developer & Designer",
   location: "Surabaya, Indonesia 🇮🇩",
   
+  specialties: ["UI/UX Design", "Frontend Development", "Visual Design"],
   currentStack: {
     frontend: ["CSS", "React JS", "Tailwind CSS"],
-    backend: ["MySQL"],
-    tools: ["VS Code", "Git", "Vercel", "CorelDraw", "Figma"]
+    database: ["MySQL"],
+    design: ["CorelDraw", "Figma"],
+    tools: ["VS Code", "Git", "Vercel"]
   },
 };
 ```
@@ -31,7 +33,7 @@ const developer = {
 
 ## 🛠️ Technology Stack
 
-### Frontend & Languages
+### Frontend & Database
 <table>
   <tr>
     <td align="center" width="100">
@@ -54,12 +56,6 @@ const developer = {
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind CSS
     </td>
-  </tr>
-</table>
-
-### Backend & Database
-<table>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
@@ -67,7 +63,21 @@ const developer = {
   </tr>
 </table>
 
-### Tools & Design
+### Design Tools
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/48/coreldraw-2021.png" width="48" height="48" alt="CorelDRAW" />
+      <br>CorelDRAW
+    </td>
+  </tr>
+</table>
+
+### Development Tools
 <table>
   <tr>
     <td align="center" width="100">
@@ -87,7 +97,7 @@ const developer = {
       <br>Figma
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/fluency/48/coreldraw-2021.png" width="48" height="48" alt="CorelDRAW" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="48" height="48" alt="CorelDRAW" />
       <br>CorelDRAW
     </td>
   </tr>
