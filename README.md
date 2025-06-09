@@ -4,7 +4,7 @@
   
 </div>
 
-## 🎯 About Me
+## About Me
 
 ```javascript
 const developer = {
@@ -24,7 +24,7 @@ const developer = {
 
 <div align="center">
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend & Database
 <table>
@@ -94,7 +94,7 @@ const developer = {
 
 </div>
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamastronger&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
@@ -114,7 +114,7 @@ const developer = {
   
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
