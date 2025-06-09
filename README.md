@@ -106,7 +106,7 @@ const developer = {
 </div>
 
 
-## 📊 Coding Activity
+## Coding Activity
 
 <div align="center">
   
