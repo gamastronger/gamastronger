@@ -1,13 +1,6 @@
-# Hi there, I'm Refa Setyagama 👋
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Designer;Creating+Beautiful+Interfaces;Always+Learning+%26+Growing;Welcome+to+my+profile!&pause=1000)
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=gamastronger&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/gamastronger?label=Followers&style=flat-square&color=3B82F6" alt="GitHub Followers" />
-  </p>
   
 </div>
 
