@@ -90,17 +90,6 @@ const developer = {
 
 </div>
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamastronger&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamastronger&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamastronger&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 
 ## Coding Activity
 
