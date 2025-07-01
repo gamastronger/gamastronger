@@ -90,15 +90,6 @@ const developer = {
 
 </div>
 
-
-## Coding Activity
-
-<div align="center">
-  
-  [![Refa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gamastronger&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
 ## Let's Connect
 
 <div align="center">
