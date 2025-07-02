@@ -1,10 +1,10 @@
-# Hi there, I'm Refa 👋
+Hi there, I'm Refa 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI%2FUX+Designer;Based+in+Surabaya,+Indonesia&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+ About Me
 
 I'm a **Frontend Developer** and **UI/UX Designer** passionate about creating beautiful, functional web experiences. I enjoy turning complex problems into simple, beautiful designs and bringing them to life with clean code.
 
@@ -32,13 +32,13 @@ I'm a **Frontend Developer** and **UI/UX Designer** passionate about creating be
 
 </div>
 
-## 📊 GitHub Stats
+GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </div>
 
-## 🎯 What I Do
+What I Do
 
 - 🎨 **UI/UX Design** - Creating user-centered designs with Figma and CorelDRAW
 - 💻 **Frontend Development** - Building responsive web applications with React & Tailwind
