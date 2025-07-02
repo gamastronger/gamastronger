@@ -22,7 +22,10 @@ I'm a **Frontend Developer** and **UI/UX Designer** passionate about creating be
 
 ### Design Tools
 <img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://img.icons8.com/color/48/coreldraw-2021.png" alt="CorelDRAW" width="48" height="48" />
+<td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/48/coreldraw-2021.png" width="50" height="50" alt="CorelDRAW" />
+      <br>CorelDRAW
+</td>
 
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,vercel,mysql" />
