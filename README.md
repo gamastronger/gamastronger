@@ -32,18 +32,10 @@ I'm a **Frontend Developer** and **UI/UX Designer** passionate about creating be
 
 </div>
 
-GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</div>
-
 What I Do
 
 - 🎨 **UI/UX Design** - Creating user-centered designs with Figma and CorelDRAW
 - 💻 **Frontend Development** - Building responsive web applications with React & Tailwind
-- 🔧 **Problem Solving** - Turning ideas into functional, beautiful digital experiences
-- 📱 **Responsive Design** - Ensuring great user experience across all devices
 
 ## 📫 Let's Connect
 
