@@ -18,7 +18,7 @@ I'm a **Frontend Developer** and **UI/UX Designer** passionate about creating be
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Design Tools
 <img src="https://skillicons.dev/icons?i=figma" />
