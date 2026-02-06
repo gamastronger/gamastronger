@@ -8,12 +8,7 @@ Hi there, I'm Refa 👋
 
 I'm a **Frontend Developer** and **UI/UX Designer** passionate about creating beautiful, functional web experiences. I enjoy turning complex problems into simple, beautiful designs and bringing them to life with clean code.
 
-- 🌍 Based in **Surabaya, Indonesia**
-- 💼 Focused on **Frontend Development** & **UI/UX Design**
-- 🌱 Always learning and exploring new technologies
-- ⚡ Love creating pixel-perfect interfaces
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
